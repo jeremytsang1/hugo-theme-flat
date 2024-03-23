@@ -1,8 +1,8 @@
 /* defines light color */
 :root {
   --color-light-bg-page: #ECEFF4;             /* nord6 */
-  --color-light-bg-content: #E5E9F0;          /* nord5 */
-  --color-light-bg-block: #D8DEE9;            /* nord4 */
+  --color-light-bg-content: #D8DEE9;          /* nord4 */
+  --color-light-bg-block: #E5E9F0;            /* nord5 */
   --color-light-bg-shadow: #E0E0E0;
   --color-light-fg-font-normal: #3B4252;      /* nord1 */
   --color-light-fg-font-hover: #2E3440;       /* dark */
