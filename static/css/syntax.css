@@ -1,6 +1,6 @@
 @media (prefers-color-scheme: light) {
-  /* Background */ .bg { color: #272822; }
-  /* PreWrapper */ .chroma { color: #272822; }
+  /* Background */ .bg { color: #2e3440; }
+  /* PreWrapper */ .chroma { color: #2e3440; }
   /* Other */ .chroma .x {  }
   /* Error */ .chroma .err { color: #960050; background-color: #1e0010 }
   /* CodeLine */ .chroma .cl {  }
@@ -88,8 +88,8 @@
 
 /* use monokai highlight theme in dark */
 @media (prefers-color-scheme: dark) {
-  /* Background */ .bg { color: #f8f8f2; background-color: #272822; }
-  /* PreWrapper */ .chroma { color: #f8f8f2; background-color: #272822; }
+  /* Background */ .bg { color: #e5e9f0; background-color: #2e3440; }
+  /* PreWrapper */ .chroma { color: #e5e9f0; background-color: #2e3440; }
   /* Other */ .chroma .x {  }
   /* Error */ .chroma .err { color: #960050; background-color: #1e0010 }
   /* CodeLine */ .chroma .cl {  }
