@@ -518,7 +518,8 @@ body {
 }
 
 .content tr:nth-child(odd)>td {
-  background: #fcfcfc;
+  /* This shows up below/above a code/source block that has line numbers. */
+  background: var(--color-bg-content);
 }
 
 .content h1,
